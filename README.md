@@ -1,5 +1,10 @@
 # 👋Hello There!
 
+I'm Shailja Kant Tiwari, a passionate and curious M.Sc. student at the prestigious Indian Institute of Technology Delhi (IITD). I love exploring the fascinating world of Machine Learning (ML) and Deep Learning (DL) and applying them to real-world problems. I have a strong background in ML and DL algorithms, techniques, and frameworks, as well as hands-on experience in building and deploying ML models, and optimizing performance. Moreover, I have an interest in finance and have worked on projects in portfolio optimization.
+
+
+🌟 I love learning continuously and staying updated on the latest advancements in machine learning (ML) and deep learning (DL). My goal is to utilize my knowledge and skills in ML, DL, and finance to craft innovative solutions for real-world problems. I am enthusiastic about teaming up with individuals and groups who share similar interests, as we work together to tackle complex problems and create a significant positive change. You can reach out to me through the provided social links [below](#social). I am always open to exciting opportunities, collaborations, or engaging discussions related to ML and DL!
+
 
 # Skill-Set
 
